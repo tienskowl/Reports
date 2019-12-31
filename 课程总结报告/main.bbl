@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{book1}
+赵致琢.
+\newblock {\em 计算科学导论}.
+\newblock 科学出版社, 2004.
+
+\bibitem{curd1998philosophy}
+Martin Curd, Jan~A Cover, and Christopher Pincock.
+\newblock {\em Philosophy of science: The central issues}, volume~6.
+\newblock WW Norton New York, 1998.
+
+\bibitem{aod}
+Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, and Dan Feng.
+\newblock An all-in-one network for dehazing and beyond.
+\newblock {\em arXiv preprint arXiv:1707.06543}, 2017.
+
+\bibitem{dehaze}
+Kaiming He, Jian Sun, and Xiaoou Tang.
+\newblock Single image haze removal using dark channel prior.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  33(12):2341--2353, 2010.
+
+\bibitem{zxx}
+张效祥.
+\newblock {\em 计算机科学技术百科全书}.
+\newblock 清华大学出版社有限公司, 2005.
+
+\end{thebibliography}
