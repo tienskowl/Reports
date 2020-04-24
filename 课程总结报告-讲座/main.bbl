@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{libin}
+李滨.
+\newblock 百年未有之大变局”: 世界向何处去.
+\newblock {\em 人民论坛{\textperiodcentered} 学术前沿}, 7:39--47, 2019.
+
+\bibitem{poole1998computational}
+David Poole, Alan Mackworth, and Randy Goebel.
+\newblock Computational intelligence.
+\newblock 1998.
+
+\bibitem{aod}
+Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, and Dan Feng.
+\newblock An all-in-one network for dehazing and beyond.
+\newblock {\em arXiv preprint arXiv:1707.06543}, 2017.
+
+\bibitem{dehaze}
+Kaiming He, Jian Sun, and Xiaoou Tang.
+\newblock Single image haze removal using dark channel prior.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  33(12):2341--2353, 2010.
+
+\bibitem{mikowski2013single}
+Michael Mikowski and Josh Powell.
+\newblock {\em Single page web applications: JavaScript end-to-end}.
+\newblock Manning Publications Co., 2013.
+
+\end{thebibliography}
